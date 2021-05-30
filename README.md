@@ -7,7 +7,7 @@
 # 2020 CCF BDCI Remote Sensing Image Plot Segmentation Dataset: 
   This dataset provides 145981 images with seven classes of annotations, and these annotations contain water-body. The ground resolution of each image is 2m/pixel, and the pixel resolution is 256× 256. The original 145981 training images are split into 116785 images for training and 29196 for validating. 
 
-Please note that we do not own the copyrights to these original satellite images. Their use is RESTRICTED to non-commercial research and educational purposes.
+**Please note that we do not own the copyrights to these original satellite images. Their use is RESTRICTED to non-commercial research and educational purposes.**
 
   
 
